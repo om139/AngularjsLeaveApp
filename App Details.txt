@@ -1,0 +1,25 @@
+Employee Registration Form
+Employee Login Form
+Dashboard
+Leave
+	Raise Leave
+	Leave Request
+
+Attendance
+	Punch Attandance
+	View Attandance
+	View Holiday
+
+Uitility
+	Leave Summary
+		Leave
+		Attandance 
+	
+Notification
+	Leave Action Notification
+	Missed Attandance Notification
+
+Employee
+	My Team
+	My Profile
+	Employee Profile
